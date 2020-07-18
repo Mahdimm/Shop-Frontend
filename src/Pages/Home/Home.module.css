@@ -1,0 +1,28 @@
+.container {
+  background-color: antiquewhite;
+  flex: 1 1 auto;
+  display: flex;
+}
+
+.card {
+  width: 620px;
+  display: block;
+  margin: auto;
+  padding: 10px 20px 10px 20px;
+  line-height: 1em;
+  box-shadow: 6px 9px 14px -6px rgba(121, 104, 133, 0.65);
+  -moz-box-shadow: 6px 9px 14px -6px rgba(121, 104, 133, 0.65);
+  -webkit-box-shadow: 6px 9px 14px -6px rgba(121, 104, 133, 0.65);
+}
+
+.btn {
+  display: block;
+  margin: auto;
+}
+
+.img {
+  width: 168px;
+  display: block;
+  margin: auto;
+  padding: 30px 40px 30px 40px;
+}

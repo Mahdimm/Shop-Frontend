@@ -1,0 +1,53 @@
+.container {
+  background-color: antiquewhite;
+  flex: 1 1 auto;
+  display: flex;
+}
+
+.img {
+  width: 148px;
+  display: block;
+  margin: auto;
+  padding: 30px 40px 30px 40px;
+}
+
+.cardLogin {
+  width: 450px;
+  height: auto;
+  font-family: sans-serif;
+  border-radius: 6px;
+  display: block;
+  margin: auto;
+  padding: 10px 20px 10px 20px;
+  line-height: 1em;
+  box-shadow: 6px 9px 14px -6px rgba(121, 104, 133, 0.65);
+  -moz-box-shadow: 6px 9px 14px -6px rgba(121, 104, 133, 0.65);
+  -webkit-box-shadow: 6px 9px 14px -6px rgba(121, 104, 133, 0.65);
+}
+
+.sendCode {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+.btnLog {
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+  width: 80px;
+}
+
+.loginAdmin {
+  display: block;
+  margin-top: 20px;
+}
+
+.fieldCode {
+  width: 80px;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}

@@ -1,0 +1,1 @@
+export const ApiBaseUrl = "localhost:3000"
